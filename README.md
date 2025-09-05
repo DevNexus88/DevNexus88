@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julian Sciortino</h1>
+<h1 align="center">Hi 👋, I'm Steven Steele</h1>
 <h3 align="center">Experienced Senior Full-Stack Software Engineer | MERN Stack Specialist</h3>
 
 <p align="center">
@@ -13,8 +13,9 @@
 - 🌐 12+ years of experience across startups and enterprise teams, leading end-to-end development
 - 🌱 Currently exploring **AI integration, DevOps automation, and multi-cloud architecture**
 - 💬 Ask me about **system design, DevOps, React performance, CI/CD, and backend architecture**
-- 📫 Reach me at: **julian.ps718@gmail.com**
-- 🔗 LinkedIn: *(coming soon)*
+- 📫 Reach me at: **stevensteele884@gmail.com**
+- 📱 Phone: **+1 602 969 2959**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/steven-steele-710a511a0/)
 
 ---
 
@@ -88,17 +89,17 @@
 
 ## 📈 GitHub Stats
 
-![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianDevX718&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianDevX718&layout=compact&theme=radical&hide_border=true)
+![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNexus88&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevNexus88&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=julianDevX718&theme=radical&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevNexus88&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
 ## 📍 Visitor Count
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=julianDevX718&icon=5&color=1)
+![Visitor Count](https://visitcount.itsvg.in/api?id=DevNexus88&icon=5&color=1)
