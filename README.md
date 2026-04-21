@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Steven Steele</h1>
-<h3 align="center">Experienced Senior Full-Stack Software Engineer | MERN Stack Specialist</h3>
+<h1 align="center">Hi 👋, I'm Tiago Silva</h1>
+<h3 align="center">Senior Full Stack Java Developer | Java, Spring Boot, React, Angular, Vue.js</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Guy GIF" />
@@ -9,75 +9,78 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently building scalable full-stack applications using **React, Node.js, MongoDB, and AWS**
-- 🌐 12+ years of experience across startups and enterprise teams, leading end-to-end development
-- 🌱 Currently exploring **AI integration, DevOps automation, and multi-cloud architecture**
-- 💬 Ask me about **system design, DevOps, React performance, CI/CD, and backend architecture**
-- 📫 Reach me at: **stevensteele884@gmail.com**
-- 📱 Phone: **+1 602 969 2959**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/steven-steele-710a511a0/)
+- 🔭 I’m building scalable full-stack applications using **Java, Spring Boot, TypeScript, React.js, Angular, Vue.js, and cloud platforms**
+- 🌐 Experienced **Senior Full Stack Java Developer** with strong expertise in backend architecture, modern frontend development, and cloud-based solutions
+- ☁️ Skilled in **AWS, Azure, DevOps, CI/CD, Jenkins, and Cloud Engineering**
+- 🧠 Interested in **AI integration, system design, cloud-native applications, and high-performance enterprise platforms**
+- 💬 Ask me about **Java, Spring Boot, TypeScript, React, Angular, Vue.js, DevOps, CI/CD, AWS, Azure, and backend architecture**
+- 📫 Reach me at: **tiago.silva9209@gmail.com**
+- 📱 Phone: **+1 (551) 322-3350**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tiago-silva-02525216b/)
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧠 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
 ---
 
 ### ⚛️ Frontend  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
 ---
 
 ### 🔧 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?logo=googlecloud&logoColor=white)
 
 ---
 
 ### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ---
 
-### ☁️ DevOps & Tools  
+### ☁️ Cloud, DevOps & CI/CD  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?logo=githubactions&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-222222?logo=azuredevops&logoColor=white)
 
 ---
 
-### 🧰 Tools & Platforms  
+### 🧰 Tools, Process & Platforms  
+![Agile](https://img.shields.io/badge/Agile-009688?logo=scrumalliance&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🤖 Emerging Focus  
+![AI](https://img.shields.io/badge/AI-8A2BE2?logo=openai&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?logo=googlecloud&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-FF9800?logo=stackoverflow&logoColor=white)
 
 ---
 
@@ -89,17 +92,17 @@
 
 ## 📈 GitHub Stats
 
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNexus88&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevNexus88&layout=compact&theme=radical&hide_border=true)
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevNexus88&theme=radical&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
 ## 📍 Visitor Count
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=DevNexus88&icon=5&color=1)
+![Visitor Count](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=5&color=1)
