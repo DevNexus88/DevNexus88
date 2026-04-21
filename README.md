@@ -92,17 +92,17 @@
 
 ## 📈 GitHub Stats
 
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNexus88&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevNexus88&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevNexus88&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
 ## 📍 Visitor Count
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=5&color=1)
+![Visitor Count](https://visitcount.itsvg.in/api?id=DevNexus88&icon=5&color=1)
