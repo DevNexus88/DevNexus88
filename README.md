@@ -97,12 +97,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📍 Profile Views
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevNexus88&theme=radical&no-frame=true&margin-w=10)
-
----
-
-## 📍 Visitor Count
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=DevNexus88&icon=5&color=1)
+![Profile Views](https://komarev.com/ghpvc/?username=DevNexus88&label=PROFILE+VIEWS&color=0e75b6&style=flat)
